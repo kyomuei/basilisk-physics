@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList1.0dtd">
+<plist version="1.0">
+<dict>
+<key>FILEHEADER</key>
+<string> -------------------------------------------------------------------------------------------------
+// This source file is part of the Basilisk Physics open source project.
+// Copyright ___YEAR___ kyomuei
+// SPDX-License-Identifier: Apache-2.0
+// See the LICENSE file in the project root for lisence information.
+// -------------------------------------------------------------------------------------------------</string>
+</dict>
+</plist>
