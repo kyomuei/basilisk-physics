@@ -10,7 +10,7 @@ import PackageDescription
 
 let package = Package(
     name: "basilisk-physics",
-    product: [
+    products: [
     ],
     dependencies:[
     ],
